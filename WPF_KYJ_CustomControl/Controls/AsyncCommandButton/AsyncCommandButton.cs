@@ -9,7 +9,7 @@ using System.Windows.Media;
 using System.Windows;
 using Wpf.Ui.Controls;
 
-namespace WPF_KYJ_CustomControl.Controls.AsyncCommandButton
+namespace WPF_KYJ_CustomControl.Controls
 {
 
     public class AsyncCommandButton : Button
